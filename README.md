@@ -1,4 +1,5 @@
-# This GitHub repository contains the code for a deep learning project on stock price prediction. The project utilizes PyTorch to build an MLP model and employs GridSearchCV for hyperparameter tuning. The code includes scripts for:
+# PyTorch Stock Price Prediction
+This GitHub repository contains the code for a deep learning project on stock price prediction. The project utilizes PyTorch to build an MLP model and employs GridSearchCV for hyperparameter tuning. The code includes scripts for:
 
 Data loading and preprocessing
 Model building and training
